@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603902924 source:c:\users\milica\documents\programi\programiranje ii godina\4. nedelja 1. zadatak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
